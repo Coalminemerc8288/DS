@@ -1,4 +1,4 @@
-package comp.pbhatna;
+package com.pbhatna;
 
 /**
  * Created by priyank on 8/26/17.
