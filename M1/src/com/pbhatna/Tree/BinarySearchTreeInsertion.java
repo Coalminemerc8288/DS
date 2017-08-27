@@ -1,5 +1,7 @@
 package com.pbhatna.Tree;
 
+import com.pbhatna.Tree.printer.BTreePrinter;
+
 /**
  * Binary Search Tree Insertion
  *
@@ -51,7 +53,7 @@ public class BinarySearchTreeInsertion {
 
     public static void print(Node node) {
         System.out.print(node.getData() + "->");
-    }
+}
 
     public static void inOrder(Node root) {
         if (root == null) {
