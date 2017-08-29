@@ -6,7 +6,7 @@ import com.pbhatna.Tree.printer.BTreePrinter;
  * Binary Search Tree Insertion
  *
  * Average Case : O(log n)
- * Wost Case: O(n)
+ * Worst Case: O(n)
  */
 public class BinarySearchTreeInsertion {
 

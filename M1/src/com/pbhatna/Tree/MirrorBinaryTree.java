@@ -56,8 +56,7 @@ public class MirrorBinaryTree {
         BTreePrinter.printNode(three);
     }
 
-    public static void breadthFirst(Node root) throws
-            Queue.QueueUnderflowException, Queue.QueueOverflowException {
+    public static void breadthFirst(Node root) throws Queue.QueueUnderflowException, Queue.QueueOverflowException {
         if (root == null) {
             return;
         }
@@ -76,7 +75,6 @@ public class MirrorBinaryTree {
             }
         }
     }
-
 
     public static void print(Node node) {
         System.out.print(node.getData() + "->");

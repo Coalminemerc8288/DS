@@ -4,7 +4,7 @@ package com.pbhatna.Tree;
  * Binary Search Lookup
  *
  * Average Case : O(log n)
- * Wost Case: O(n)
+ * Worst Case: O(n)
  */
 public class BinarySearchTreeLookup {
 
