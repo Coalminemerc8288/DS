@@ -1,6 +1,6 @@
-package com.pbhatna.Tree.printer;
+package com.pbhatna.tree.printer;
 
-import com.pbhatna.Tree.Node;
+import com.pbhatna.tree.Node;
 
 import java.util.ArrayList;
 import java.util.Collections;

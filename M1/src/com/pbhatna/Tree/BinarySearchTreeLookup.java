@@ -1,4 +1,4 @@
-package com.pbhatna.Tree;
+package com.pbhatna.tree;
 
 /**
  * Binary Search Lookup

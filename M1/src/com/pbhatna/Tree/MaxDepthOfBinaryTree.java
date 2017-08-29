@@ -1,4 +1,4 @@
-package com.pbhatna.Tree;
+package com.pbhatna.tree;
 
 /**
  * Maximum depth of the binary tree

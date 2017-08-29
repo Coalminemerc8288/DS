@@ -1,4 +1,4 @@
-package com.pbhatna.Tree;
+package com.pbhatna.tree;
 
 /**
  * Check if Binary tree is the binary search tree

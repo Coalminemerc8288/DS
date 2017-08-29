@@ -1,4 +1,4 @@
-package com.pbhatna.Tree;
+package com.pbhatna.tree;
 
 /**
  * Breadth First Search

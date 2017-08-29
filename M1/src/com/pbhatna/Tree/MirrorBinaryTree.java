@@ -1,6 +1,6 @@
-package com.pbhatna.Tree;
+package com.pbhatna.tree;
 
-import com.pbhatna.Tree.printer.BTreePrinter;
+import com.pbhatna.tree.printer.BTreePrinter;
 
 /**
  * Mirror Binary Tree

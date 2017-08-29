@@ -1,6 +1,4 @@
-package com.pbhatna.Tree;
-
-import com.pbhatna.Tree.printer.BTreePrinter;
+package com.pbhatna.tree;
 
 /**
  * Binary Search Tree Insertion
