@@ -9,7 +9,7 @@ public class RemoveDuplicatesInUnsortedList<T extends Comparable<T>> extends Lin
 
     public Node<T> removeDuplicatesInUnsorted(Node<T> head) {
         if (head == null) {
-            return new Node<T>();
+            return new Node<T>(null);
         }
         Node<T> curr = head;
         Node<T> prev = null;

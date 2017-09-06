@@ -10,7 +10,7 @@ public class RemoveDuplicates<T extends Comparable<T>> extends LinkedList {
 
     public Node<T> removeDuplicates(Node<T> head) {
         if (head == null) {
-            return new Node<T>();
+            return new Node<T>(null);
         }
         Node<T> curr = head;
         while(curr.getNext() != null) {

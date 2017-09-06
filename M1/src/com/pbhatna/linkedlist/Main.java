@@ -2,20 +2,22 @@ package com.pbhatna.linkedlist;
 
 
 public class Main {
-    public static void main(String [] args) {
-        LinkedList<String> l1 = new LinkedList<>();
-        System.out.println(l1);
-        l1.addNode("a");
-        l1.addNode("bc");
-        l1.addNode("d");
-        l1.addNode("dcb");
-        l1.addNode("a");
+    public static void main(String[] args) {
 
-        l1.printNodes();
+        LinkedList<Integer> n = new LinkedList<Integer>();
+        n.addNode(3);
+        n.addNode(4);
+        n.addNode(5);
+        n.addNode(10);
 
-        Palindrome<String> p = new Palindrome();
-        boolean flag = p.isPalindrome(l1.head);
-        System.out.println(flag);
+        System.out.println("Printing all nodes through printnode function" );
+        n.printNodes(); //  to print all the nodes
+
+        System.out.println("Using countNodes function, printing total number of nodes which is  " + n.countNodes());
+
+        System.out.println("Using popelemenet function,Popping the top node from the list whose value is " + n.popElement());
+        System.out.println("Printing all nodes through printnode function after pop function" );
+        n.printNodes();
     }
 
     public static void printNodes(Node<Integer> head) {

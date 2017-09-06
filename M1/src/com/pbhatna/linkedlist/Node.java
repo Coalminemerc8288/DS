@@ -3,12 +3,9 @@ package com.pbhatna.linkedlist;
 /**
  * Node
  */
-public class Node<T> {
-
+public class Node<T extends Comparable<T>> {
     private T data;
     private Node<T> next;
-
-    public Node() {}
 
     public Node(T data) {
         this.data = data;
@@ -27,7 +24,8 @@ public class Node<T> {
         return data;
     }
 
-    public void setData(T data) {
-        this.data = data;
+    @Override
+    public String toString() {
+        return String.valueOf(data);
     }
 }

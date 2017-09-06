@@ -11,7 +11,7 @@ public class PowerFunction {
         }
 
         if (n < 0) {
-            return 1 / pow(value,-n);
+            return 1 / pow(value, -n);
         }
 
         double result = pow(value, n/2);
@@ -24,7 +24,7 @@ public class PowerFunction {
 }
 
     public static void main(String []args) {
-        int n = 7;
+        int n = -2147483648;
         double k = 2;
         System.out.println("power of " + n +" for " + k + " is equal "+pow(k,n));
         System.out.println("should be equal to: "+ Math.pow(k,n));
