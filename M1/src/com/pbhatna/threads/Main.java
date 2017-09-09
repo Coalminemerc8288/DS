@@ -1,7 +1,6 @@
 package com.pbhatna.threads;
-import static com.pbhatna.threads.ThreadColor.ANSI_PURPLE;
-import static com.pbhatna.threads.ThreadColor.ANSI_GREEN;
-import static com.pbhatna.threads.ThreadColor.ANSI_RED;
+
+import static com.pbhatna.threads.ThreadColor.*;
 
 /**
  * Threads and Concurrency

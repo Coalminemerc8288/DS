@@ -9,7 +9,21 @@ package com.pbhatna.linkedlist;
  * Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
  * Output: 7 -> 0 -> 8
  */
-public class AddTwoNumbersLinkedList {
+public class AddTwoNumbersLinkedList <T extends Comparable<T>> extends LinkedList {
+
+
+    public Node<T> addTwoNumbers(Node<T> l1, Node<T> l2) {
+        int carry = 0;
+
+        Node<T>l3 = new  Node(0);
+
+        Node<T> p1 = l1;
+        Node<T> p2 = l2;
+        Node<T> p3 = l3;
+        return null;
+
+    }
+
 
 //    void printList(Node head) {
 //        while (head != null) {
@@ -18,7 +32,7 @@ public class AddTwoNumbersLinkedList {
 //        }
 //        System.out.println("");
 //    }
-
+//
 //    public static void main(String[] args) {
 //        LinkedList list = new LinkedList();
 //

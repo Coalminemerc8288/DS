@@ -1,5 +1,7 @@
 package com.pbhatna.linkedlist;
-import java.util.*;
+
+import java.util.HashSet;
+import java.util.Set;
 
 /**
  * Write a removeDuplicates() function which takes a list and deletes any duplicate nodes from the list. The list is not sorted.

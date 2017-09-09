@@ -1,8 +1,5 @@
 package com.pbhatna.linkedlist;
 
-import java.util.List;
-import java.util.ArrayList;
-
 /**
  * Linked List Implementation
  */
