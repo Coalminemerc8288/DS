@@ -27,4 +27,8 @@ public class Customer  {
         this.name = name;
     }
 
+    public void finalize() {
+        System.out.println("The object is being garbage collected!");
+    }
+
 }

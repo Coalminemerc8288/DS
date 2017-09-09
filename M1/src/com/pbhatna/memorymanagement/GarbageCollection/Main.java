@@ -14,7 +14,7 @@ public class Main {
 
         // let's create a ton of garbage....
         Customer c;
-        for (int i=0; i<1000000; i++)
+        for (int i=0; i<100; i++)
         {
             c = new Customer("John");
         }

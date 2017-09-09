@@ -2,31 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f0a8296-7e5d-41cf-9db6-82fcb0b309cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/BookCatalog/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/BookCatalog/BookCollection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/BookCatalog/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/BookCatalog/Price.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/EscapingReferences/Customer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/EscapingReferences/CustomerRecords.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/EscapingReferences/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/GarbageCollection/Customer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/GarbageCollection/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/memorytest/Container.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/memorytest/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/Customer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/CustomerHarness.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/CustomerManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/GenerateCustomerTask.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/AddTwoNumbersLinkedList.class" afterPath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/AddTwoNumbersLinkedList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/InsertAtNthNode.class" afterPath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/InsertAtNthNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/CustomerHarness.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/BookReadOnly.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/memorymanagement/Customer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/memorymanagement/CustomerRecords.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/memorymanagement/Main.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/LinkedList.class" afterPath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/LinkedList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/Main.class" afterPath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/Palindrome.class" afterPath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/Palindrome.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/RemoveDuplicatesInUnsortedList.class" afterPath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/RemoveDuplicatesInUnsortedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/threads/Main$1.class" afterPath="$PROJECT_DIR$/out/production/M1/com/pbhatna/threads/Main$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/threads/Main$2.class" afterPath="$PROJECT_DIR$/out/production/M1/com/pbhatna/threads/Main$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/threads/Main.class" afterPath="$PROJECT_DIR$/out/production/M1/com/pbhatna/threads/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/AddTwoNumbersLinkedList.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/AddTwoNumbersLinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/LinkedList.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/LinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/Palindrome.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/Palindrome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/RemoveDuplicatesInUnsortedList.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/RemoveDuplicatesInUnsortedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/threads/Main.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/threads/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/BookCatalog/Book.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/BookCatalog/Book.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/BookCatalog/BookCollection.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/BookCatalog/BookCollection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/BookCatalog/Main.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/BookCatalog/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/BookCatalog/Price.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/BookCatalog/Price.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/GarbageCollection/Customer.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/GarbageCollection/Customer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/GarbageCollection/Main.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/GarbageCollection/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/CustomerManager.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/CustomerManager.java" />
     </list>
     <ignored path="DS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,83 +42,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="51" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Price.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/Price.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#735#736#0" expanded="true" />
-                <element signature="e#779#780#0" expanded="true" />
-                <element signature="e#823#824#0" expanded="true" />
-                <element signature="e#851#852#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/garbagecollection/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/garbagecollection/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-              <folding>
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-              <folding>
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerHarness.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CustomerHarness.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/CustomerHarness.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.525">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -134,47 +56,9 @@
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/CustomerManager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
               <folding>
-                <element signature="e#237#247#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenerateCustomerTask.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/GenerateCustomerTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/memorytest/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Container.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/memorytest/Container.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.075">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -186,6 +70,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -200,12 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/BinarySearchTreeMinValue.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/DepthOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/MaxDepthOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/BTreePrinter.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/printer/BTreePrinter.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/BinarySearchTreeInsertion.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/BinarySearchTreeLookup.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/Queue.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/MirrorBinaryTree.java" />
@@ -244,13 +123,19 @@
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/BookCatalog/BookCollection.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/GarbageCollection/Main.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/GarbageCollection/Customer.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/garbagecollection/Customer.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/Customer.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/CustomerHarness.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/CustomerManager.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/GenerateCustomerTask.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/memorytest/Main.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/memorytest/Container.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/Main.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/BookReadOnly.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/Price.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/Book.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/BookCollection.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/garbagecollection/Main.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/garbagecollection/Customer.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/CustomerManager.java" />
       </list>
     </option>
   </component>
@@ -264,7 +149,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="1929" />
     <option name="y" value="23" />
-    <option name="width" value="1911" />
+    <option name="width" value="1501" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -351,13 +236,69 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pbhatna" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="memorymanagement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="softleaks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pbhatna" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="memorymanagement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStructure" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -365,53 +306,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.pbhatna.memorymanagement.bookcatalog" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement" />
       <recent name="$PROJECT_DIR$/M1/src/com/pbhatna/binaryheap" />
       <recent name="$PROJECT_DIR$/M1/src/com/pbhatna" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration default="false" name="PowerFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.pbhatna.stringandarrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.pbhatna.stringandarrays.PowerFunction" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="M1" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.pbhatna.threads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.pbhatna.threads.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="M1" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.CustomerHarness">
     <configuration default="false" name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -452,14 +356,34 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.pbhatna.memorymanagement.escapingreferences.*" />
+          <option name="PATTERN" value="com.pbhatna.memorymanagement.bookcatalog.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.pbhatna.memorymanagement.escapingreferences.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.pbhatna.memorymanagement.bookcatalog.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="M1" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.pbhatna.memorymanagement.garbagecollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.pbhatna.memorymanagement.garbagecollection.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -851,19 +775,17 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PowerFunction" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Stack" />
-      <item index="3" class="java.lang.String" itemvalue="Application.StackLinkedListImpl" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CustomerHarness" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Stack" />
+      <item index="2" class="java.lang.String" itemvalue="Application.StackLinkedListImpl" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="Application.StackLinkedListImpl" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Stack" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PowerFunction" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.StackLinkedListImpl" />
       </list>
     </recent_temporary>
   </component>
@@ -881,7 +803,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1929" y="23" width="1911" height="1057" extended-state="6" />
+    <frame x="1929" y="23" width="1501" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -891,10 +813,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22553636" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39173883" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18524332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25782812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299595" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -905,7 +828,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -954,13 +876,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/tree/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/tree/PostOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1229,12 +1144,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="false" />
+            <element signature="e#184#185#0" expanded="false" />
+            <element signature="e#220#221#0" expanded="false" />
+            <element signature="e#252#253#0" expanded="false" />
+            <element signature="e#284#285#0" expanded="false" />
+            <element signature="e#311#312#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1244,13 +1159,13 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#211#212#0" expanded="false" />
+            <element signature="e#273#274#0" expanded="false" />
+            <element signature="e#316#317#0" expanded="false" />
+            <element signature="e#364#365#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#450#451#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1260,128 +1175,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/BookCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/Price.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/garbagecollection/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/garbagecollection/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/CustomerHarness.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/CustomerManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <element signature="e#237#247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/GenerateCustomerTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1395,14 +1188,128 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/memorytest/Container.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.075">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="false" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#238#239#0" expanded="false" />
+            <element signature="e#276#277#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#247#248#0" expanded="false" />
+            <element signature="e#272#273#0" expanded="false" />
+            <element signature="e#318#319#0" expanded="false" />
+            <element signature="e#346#347#0" expanded="false" />
+            <element signature="e#393#394#0" expanded="false" />
+            <element signature="e#422#423#0" expanded="false" />
+            <element signature="e#663#664#0" expanded="false" />
+            <element signature="e#709#710#0" expanded="false" />
+            <element signature="e#754#755#0" expanded="false" />
+            <element signature="e#787#788#0" expanded="false" />
+            <element signature="e#829#830#0" expanded="false" />
+            <element signature="e#874#875#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/BookReadOnly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/garbagecollection/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="66" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
+          <folding>
+            <element signature="e#502#503#0" expanded="false" />
+            <element signature="e#578#579#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/garbagecollection/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09375">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/BookCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6375">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/bookcatalog/Price.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.525">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/GenerateCustomerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="29" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/CustomerManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/memorymanagement/softleaks/CustomerHarness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.525">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
