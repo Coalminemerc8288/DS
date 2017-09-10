@@ -283,5 +283,9 @@ public class LinkedList<T extends Comparable<T>> implements Cloneable {
 //
 //        head = prev;
 //    }
+
+    public Node<T> getHead() {
+        return head;
+    }
 }
 
