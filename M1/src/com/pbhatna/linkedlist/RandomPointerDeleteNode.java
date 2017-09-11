@@ -33,19 +33,4 @@ public class RandomPointerDeleteNode extends LinkedList {
         n.printNodes();
     }
 
-    public static void printNodes(Node<Integer> head) {
-        System.out.println("--------------------");
-        if (head == null) {
-            System.out.println("No node exist");
-        } else {
-            int i = 0;
-            Node<Integer> curr = head;
-            while(curr != null) {
-                System.out.println(" Node: " + i + " value: "+ curr.getData());
-                curr = curr.getNext();
-                i++;
-            }
-            System.out.println("--------------------");
-        }
-    }
 }

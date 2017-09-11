@@ -7,21 +7,51 @@ package com.pbhatna.linkedlist;
  */
 public class RemoveDuplicates<T extends Comparable<T>> extends LinkedList {
 
-
-    public Node<T> removeDuplicates(Node<T> head) {
+    public static Node<Integer> removeDuplicates(Node<Integer> head) {
         if (head == null) {
-            return new Node<T>(null);
+            return new Node<>(0);
         }
-        Node<T> curr = head;
-        while(curr.getNext() != null) {
-            if (curr.getData() == curr.getNext().getData()) {
-//                System.out.println("4-------->"+ curr.getData() +": "+ curr.getNext().getData());
 
+        Node<Integer> curr = head;
+
+        while(curr != null && curr.getNext() != null) {
+            if (curr.getData() == curr.getNext().getData()) {
                 curr.setNext(curr.getNext().getNext());
+            } else {
+                curr = curr.getNext();
             }
-            curr = curr.getNext();
         }
-//        System.out.println("5-------->"+ curr.getData());
         return head;
     }
+
+    public static void main(String []args) {
+
+        LinkedList<Integer> l1 = new LinkedList<Integer>();
+        System.out.println(l1);
+        l1.addNode(1);
+        l1.addNode(1);
+        l1.addNode(1);
+        l1.addNode(1);
+        l1.addNode(1);
+        l1.addNode(2);
+        l1.addNode(2);
+        l1.addNode(2);
+        l1.addNode(2);
+        l1.addNode(3);
+        l1.addNode(3);
+        l1.addNode(3);
+        l1.addNode(4);
+        l1.addNode(4);
+        l1.addNode(4);
+        l1.addNode(4);
+
+        System.out.println("Original Linked List");
+        printNodes(l1.getHead());
+
+        System.out.println("Without Duplicates");
+        Node<Integer> l2 = removeDuplicates(l1.getHead());
+        printNodes(l2);
+    }
+
+
 }
