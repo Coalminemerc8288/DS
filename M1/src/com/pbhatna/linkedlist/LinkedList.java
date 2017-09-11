@@ -93,7 +93,7 @@ public class LinkedList<T extends Comparable<T>> implements Cloneable {
     /**
      * Delete all the elements in the linked list.
      */
-//    public void deleteLinkedList() {
+//    public void DeleteLinkedList() {
 //        // This is the easiest code every written in Java, no clean up
 //        // required. Java's garbage collector will clean up the memory
 //        // for all the elements being used in this linked list if

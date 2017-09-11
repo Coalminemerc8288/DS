@@ -1,31 +1,34 @@
 package com.pbhatna.stringandarrays;
 
 /**
- * Implement pow(x, n).
+ * Implement power function pow(x, n) where x could be double and n is integer
  */
 public class PowerFunction {
 
-    public static double myPow(double x, int n) {
+    public static double pow(double value, int n) {
+
+        // case1
         if (n == 0) {
             return 1;
         }
 
+        // case 2
         if (n < 0) {
-            return 1 / (x * myPow(x, -(n + 1)));
+            return 1/pow(value, -n);
         }
 
-        double result = myPow(x, n/2);
+        // recursive call
+        double temp = pow(value, n/2);
+        System.out.println("temp----->"+temp + "-----n----->" + n);
 
-        if (n%2 == 0)
-            return result * result;
-        else
-            return x * result * result;
+        if (n%2 == 0) {
+            return temp * temp;
+        } else {
+            return value * temp * temp;
+        }
     }
 
-    public static void main(String []args) {
-        int n = -2147483648;
-        double k = 2;
-        System.out.println("power of " + n +" for " + k + " is equal "+ myPow(k,n));
-        System.out.println("should be equal to: "+ Math.pow(k,n));
+    public static void main(String [] args) {
+        System.out.println(Math.pow(2, 8) + " is equal to " + pow(2, 8));
     }
 }
