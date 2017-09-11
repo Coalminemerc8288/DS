@@ -2,6 +2,12 @@ package com.pbhatna.binaryheap;
 
 /**
  * Find K Largest elements
+ *
+ * The reason MinHeap is used because in order to find k largest elements we need
+ * to build a heap and knock out the smallest element in the constant time every time
+ * when we come across a larger element and the array is already full. Min heap makes it
+ * easier
+ *
  */
 public class FindKLargestElements {
 
@@ -9,6 +15,7 @@ public class FindKLargestElements {
             throws Heap.HeapUnderflowException, Heap.HeapOverflowException {
 
         MinHeap<Integer> minHeap = new MinHeap<>(Integer.class, k);
+
         for (int num : array) {
             if (minHeap.isEmpty()) {
                 minHeap.insert(num);

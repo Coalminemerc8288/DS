@@ -1,8 +1,9 @@
 package com.pbhatna.binaryheap;
 
 /**
- * Find minimum element in the max heap, find the last index in the max heap and find the last parent,
- * iterate through all the child leaf elements to find the min value
+ * Find minimum element in the max heap,
+ * find the last index in the max heap and find the last parent,
+ * iterate through all the child leaf elements to find the min value.
  */
 public class FindMinElementInMaxHeap {
 

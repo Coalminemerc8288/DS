@@ -2,6 +2,10 @@ package com.pbhatna.binaryheap;
 
 /**
  * Find K smallest elements
+ *
+ * The reason Max heap is used because every time smaller element is encountered while
+ * building a heap compared to the highest priority element, we need to knock out
+ * the maximum element, which Maxheap make it easier and let us do in constant time
  */
 public class FindKSmallestElements {
     public static MaxHeap<Integer> findkSmallestElement(int[] array, int k) throws Heap.HeapOverflowException, Heap.HeapUnderflowException {

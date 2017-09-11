@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Print Binary Tree, Visualization purpose only(Not optimized)
  */
-public class BTreePrinter {
+public class BTreePrinter<T> {
 
         public static <T extends Comparable<?>> void printNode(Node<T> root) {
             int maxLevel = BTreePrinter.maxLevel(root);

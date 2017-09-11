@@ -1,11 +1,15 @@
 package com.pbhatna.binaryheap;
 
+
+import com.pbhatna.tree.printer.BTreePrinter;
+
 /**
- * (Min Heap)
+ * Min Heap
+ *
  * Binary heap that has minimum value with the highest priority and exist at the root.
  * Parent value is smaller than its child elements
  */
-public class MinHeap<T> extends Heap {
+public class MinHeap<T extends Comparable<T>> extends Heap {
     public MinHeap(Class clazz) {
         super(clazz);
     }

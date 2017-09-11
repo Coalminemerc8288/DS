@@ -13,7 +13,6 @@ public abstract class Heap<T extends Comparable<T>> {
     private static final int MAX_SIZE = 40;
     private T[] array;
     private int count;
-    private int size;
 
     public Heap(Class<T> clazz) {
         this(clazz, MAX_SIZE );

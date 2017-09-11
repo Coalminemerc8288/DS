@@ -1,7 +1,8 @@
 package com.pbhatna.binaryheap;
 
 /**
- * (Max Heap)
+ * Max Heap
+ *
  * Binary heap that has maximum value with the highest priority and exist at the root.
  * Parent value is larger than its child elements
  */

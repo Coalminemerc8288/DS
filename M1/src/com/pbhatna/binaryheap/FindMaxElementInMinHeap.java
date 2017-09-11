@@ -3,7 +3,8 @@ package com.pbhatna.binaryheap;
 /**
  * Find Max element in the min heap
  *
- * From the last element find the last parent index, iterate through all the leaf nodes and find maximum
+ * From the last element find the last parent index,
+ * iterate through all the leaf nodes and find maximum.
  */
 public class FindMaxElementInMinHeap {
 
