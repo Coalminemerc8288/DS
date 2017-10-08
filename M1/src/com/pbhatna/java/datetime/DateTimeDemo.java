@@ -1,4 +1,4 @@
-package com.pbhatna.java;
+package com.pbhatna.java.datetime;
 
 /**
  * DateTimeDemo(Including Java 8)
@@ -27,13 +27,12 @@ public class DateTimeDemo {
         System.out.println("\nDate class ... ");
         Date currentDate = new Date();
         System.out.println("currentDate: " + currentDate);
-
         System.out.println("currentDate in ms: " + currentDate.getTime());
+
 
         // Use-case: Software renewal
         System.out.println("\nCalendar class ... ");
         Calendar expiryDate = new GregorianCalendar(2017, 05, 30);
-        System.out.println("expiryDate: " + expiryDate);
         System.out.println("expiryDate: " + expiryDate.getTime());
         expiryDate.add(Calendar.MONTH, 8);
         System.out.println("new expiryDate: " + expiryDate.getTime());
@@ -41,13 +40,13 @@ public class DateTimeDemo {
         expiryDate.roll(Calendar.MONTH, 11);
         System.out.println("new expiryDate (roll): " + expiryDate.getTime());
 
+
         // Time Zone Demo
         // Use-case: Game start time localized to time zone
         // System.out.println("\nTimeZones ... ");
         String[] timeZones = TimeZone.getAvailableIDs();
-		/*
-		 * for (String timeZone : timeZones) { System.out.println(timeZone); }
-		 */
+        for (String timeZone : timeZones) { System.out.println(timeZone); }
+
         // no-arg constructor below ==> default timezone
         // Calendar.getInstance()
         Calendar gameStartTime = new GregorianCalendar(TimeZone.getTimeZone("Europe/London"));
