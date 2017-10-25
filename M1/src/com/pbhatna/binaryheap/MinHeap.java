@@ -1,8 +1,6 @@
 package com.pbhatna.binaryheap;
 
 
-import com.pbhatna.tree.printer.BTreePrinter;
-
 /**
  * Min Heap
  *

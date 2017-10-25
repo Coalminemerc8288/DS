@@ -1,6 +1,6 @@
-package com.pbhatna.tree;
+package com.pbhatna.Tree;
 
-import static com.pbhatna.tree.printer.BTreePrinter.printNode;
+import com.pbhatna.Tree.printer.BTreePrinter;
 
 /**
  * Given an integer array with no duplicates.
@@ -57,6 +57,6 @@ public class MaximumBinaryTree {
     public static void main(String[]args) {
         int [] nums = {3,2,1,6,0,5};
         Node root = getMaximumBinaryTree(nums);
-        printNode(root);
+        BTreePrinter.printNode(root);
     }
 }
