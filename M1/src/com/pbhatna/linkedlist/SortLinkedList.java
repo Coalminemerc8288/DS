@@ -9,6 +9,7 @@ package com.pbhatna.linkedlist;
 public class SortLinkedList <T extends Comparable<T>> extends LinkedList {
 
     public Node<T> sortListOnActual(Node<T> head) {
+
         if (head == null) {
             return new Node<T>(null);
         }

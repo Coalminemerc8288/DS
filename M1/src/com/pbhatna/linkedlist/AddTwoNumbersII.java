@@ -1,6 +1,8 @@
 package com.pbhatna.linkedlist;
 
 /**
+ *
+ * 2. Add Two Numbers
  * You are given two non-empty linked lists representing two non-negative integers.
  * The most significant digit comes first and each of their nodes contain a single digit.
  * Add the two numbers and return it as a linked list.
@@ -15,43 +17,46 @@ public class AddTwoNumbersII extends LinkedList{
     public static Node<Integer> addTwoNumbers(Node<Integer> l1, Node<Integer> l2) {
         int carry = 0;
 
-
-        Node<Integer> l3 = new Node<Integer>(0);
+        Node<Integer> l3 = new Node<>(0);
 
         Node<Integer> p1 = reverseList(l1);
         Node<Integer> p2 = reverseList(l2);
         Node<Integer> p3 = l3;
 
+
         while (p1 != null || p2 != null) {
             if (p1 != null) {
-                carry = carry + (int) p1.getData();
+                carry = carry + p1.getData();
                 p1 = p1.getNext();
             }
 
             if (p2 != null) {
-                carry = carry + (int) p2.getData();
+                carry = carry + p2.getData();
                 p2 = p2.getNext();
             }
-            p3.setNext(new Node<Integer>(carry % 10));
-            carry = carry/ 10;
+
+            p3.setNext(new Node<>(carry % 10));
+            carry = carry / 10;
             p3 = p3.getNext();
         }
 
-        if(carry == 1) {
-            p3.setNext(new Node<Integer>(carry));
+        if (carry == 1) {
+            p3.setNext(new Node<>(1));
         }
 
-        l3 = reverseList(l3.getNext());
+        l3 = reverseList(p3);
+
         return l3.getNext();
     }
 
     public static Node<Integer> reverseList(Node<Integer> head) {
-        if(head == null || head.getNext() == null) {
+        if (head == null || head.getNext() == null) {
             return head;
         }
 
         Node<Integer> prev = null;
-        Node<Integer> curr = head;
+        Node<Integer> curr = head.getNext();
+
         while (curr != null) {
             Node<Integer> next = curr.getNext();
             curr.setNext(prev);

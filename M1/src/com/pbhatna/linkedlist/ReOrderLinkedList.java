@@ -64,6 +64,5 @@ public class ReOrderLinkedList<T extends Comparable<T>> extends LinkedList {
 
         return result;
     }
-
 }
 
