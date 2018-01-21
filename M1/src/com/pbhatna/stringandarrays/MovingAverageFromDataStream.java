@@ -19,9 +19,7 @@ public class MovingAverageFromDataStream {
     public double getNext(int newValue) {
          if (queue.size() < size) {// If queue is not full
              queue.offer(newValue);
-             int sum = 0;
-             for (int i :queue) {sum+=i;}
-             average = (double) sum / queue.size();
+             average = getSum(queue) / queue.size();
              return average;
          }  else { // if full
              int head = queue.poll();
@@ -31,5 +29,11 @@ public class MovingAverageFromDataStream {
              average = average + add - minus;
              return average;
          }
+    }
+
+    private int getSum(Queue<Integer> queue) {
+        int sum = 0;
+        for (int i: queue) {sum = sum + i;}
+        return sum;
     }
 }
