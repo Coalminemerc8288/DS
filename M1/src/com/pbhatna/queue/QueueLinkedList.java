@@ -114,7 +114,7 @@ public class QueueLinkedList<T extends Comparable<T>> {
             System.out.println("Peek"+ q.peek());
             q.display();
 
-        } catch(QueueOverflowException | QueueUnderflowException e) {
+        } catch(Exception e) {
             System.out.println(e.getMessage());
         }
     }

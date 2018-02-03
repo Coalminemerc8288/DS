@@ -43,7 +43,7 @@ public class SplitLinkedListIntoEqualParts <T extends Comparable<T>> extends Lin
             slow.setNext(null);
         }
 
-        List<Node<T>> list = new ArrayList<>();
+        List<Node<T>> list = new ArrayList<Node<T>>();
         list.add(front);
         list.add(back);
 

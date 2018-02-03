@@ -38,6 +38,7 @@ public class FindMaxElementInMinHeap {
         minHeap.insert(3);
         minHeap.printHeapArray();
 
+
         System.out.println("Maximum Element in min heap:"+getMaximum(minHeap));
     }
 }

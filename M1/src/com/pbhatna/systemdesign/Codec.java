@@ -1,7 +1,7 @@
 package com.pbhatna.systemdesign;
 
-import java.util.Map;
 import java.util.HashMap;
+import java.util.Map;
 
 /**
  * 535. Encode and Decode TinyURL
