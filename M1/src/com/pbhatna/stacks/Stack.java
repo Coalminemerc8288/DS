@@ -18,9 +18,6 @@ public class Stack<T extends Comparable<T>> {
     private T [] array;
     private int count;
 
-    public Stack(Class<T> clazz) {
-        this(clazz, MAX_SIZE);
-    }
 
     public Stack(Class<T> clazz, int size) {
         this.count = 0;
