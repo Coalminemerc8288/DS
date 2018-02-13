@@ -2,123 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd48d00b-f802-4a4d-b483-f1ba1f9484b2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/stacks/BasicCalculatorII.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/stacks/BasicCalculatorStringExpression.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/BoldWordsInString.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/CountBinarySubstrings.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/RemoveComments.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/RepeatedStringMatch.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/BinarySearchTreeInsertion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/BinarySearchTreeLookup.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/BinarySearchTreeMinValue.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/BinaryTreeFromInOrderAndPostOrder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/BinaryTreeFromPreOrderAndInOrder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/BinaryTreeIsBST.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/BreadthFirstTraversal.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/InOrderIterative.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/Inorder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/MaxDepthOfBinaryTree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/MaximumBinaryTree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/MirrorBinaryTree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/PostOrder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/PreOrder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/Queue$QueueOverflowException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/Queue$QueueUnderflowException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/Queue.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/SortedListToBinary.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/Tree/printer/BTreePrinter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/binaryheap/FindKLargestElements.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/binaryheap/FindKSmallestElements.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/binaryheap/FindMaxElementInMinHeap.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/binaryheap/FindMinElementInMaxHeap.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/binaryheap/Heap$HeapOverflowException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/binaryheap/Heap$HeapUnderflowException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/binaryheap/Heap.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/binaryheap/MaxHeap.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/binaryheap/MinHeap.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/core/Impl/linkedlist/LinkedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/core/Impl/linkedlist/Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/designpattern/Singleton.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/designpattern/SingletonDoubleCheckingLocking.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/designpattern/SingletonEagerlyInstantiate.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/AddNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/AddTwoNumbersII.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/AddTwoNumbersLinkedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/AppendListToCurrList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/ChangeHead.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/CopyListWithRandomPointer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/DbNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/DetectCycleLinkedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/DoublyLinkedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/InsertAtNthNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/InsertIntoSortedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/LinkedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/MergeTwoSortedLinkedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/OddEvenLinkedListNodes.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/Palindrome.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/PartitionLinkedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/RandomPointerDeleteNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/ReOrderLinkedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/RemoveDuplicates.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/RemoveDuplicatesInUnsortedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/RemoveElement.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/RemoveNthNodeFromEnd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/ReverseLinkedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/ReverseLinkedListIterative.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/ReverseLinkedListRecursive.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/SortLinkedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/SortedMergedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/SplitLinkedListIntoEqualParts.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/linkedlist/SwapNodesInPairs.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/queue/Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/queue/Queue$QueueOverflowException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/queue/Queue$QueueUnderflowException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/queue/Queue.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/queue/QueueLinkedList$QueueOverflowException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/queue/QueueLinkedList$QueueUnderflowException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/queue/QueueLinkedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/recursion/Algorithm.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/recursion/Recursion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/searchingsorting/BinarySearch.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/searchingsorting/BubbleSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/searchingsorting/HeapSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/searchingsorting/InsertionSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/searchingsorting/MergeSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/searchingsorting/QuickSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/searchingsorting/SelectionSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/searchingsorting/ShellSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stacks/BasicCalculator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stacks/Element.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stacks/Stack$StackOverflowException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stacks/Stack$StackUnderflowException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stacks/Stack.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stacks/StackLinkedListImpl$StackOverflowException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stacks/StackLinkedListImpl$StackUnderflowException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stacks/StackLinkedListImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/CheckPowerOfFour.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/CheckPowerOfN.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/CheckPowerOfThree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/CheckPowerOfTwo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/ComplexNumberMultiplication.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/IsNumberPalindrome.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/IsStringPalindrome.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/LongestPalindromicSubstring.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/LongestSubstringWithOutRepeating.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/LongestSubstringWithoutRepeatingChars.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/MovingAverageFromDataStream.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/OutputContentMatches.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/PowerFunction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/ReverseInteger.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/SlidingWindowMaximum.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/Triangle.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/stringandarrays/ZigZagConversion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/systemdesign/Codec.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/target/classes/com/pbhatna/systemdesign/CodecUsingRandomFunction.class" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/stacks/Stack.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/stacks/Stack.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/RepeatedStringMatch.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/RepeatedStringMatch.java" />
     </list>
     <ignored path="DS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -187,8 +72,8 @@
       <file leaf-file-name="RepeatedStringMatch.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/RepeatedStringMatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="34" />
+            <state relative-caret-position="289">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -298,10 +183,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1916" />
+    <option name="x" value="-853" />
     <option name="y" value="22" />
-    <option name="width" value="1916" />
-    <option name="height" value="1058" />
+    <option name="width" value="893" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -411,6 +296,13 @@
               <item name="M1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
               <item name="queue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -426,6 +318,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
               <item name="stringandarrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
+              <item name="systemdesign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1028,14 +934,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/ReOrderLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="55" column="8" lean-forward="false" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/CheckPowerOfTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1437,10 +1335,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="37" column="2" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="37" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/RepeatedStringMatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="34" />
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
         </state>
       </provider>
