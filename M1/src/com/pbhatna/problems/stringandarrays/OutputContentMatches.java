@@ -1,4 +1,4 @@
-package com.pbhatna.stringandarrays;
+package com.pbhatna.problems.stringandarrays;
 
 /**
  * During the NBA playoffs, we always arrange the rather strong team to play with the rather weak team, like make the

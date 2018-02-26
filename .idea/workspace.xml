@@ -2,7 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd48d00b-f802-4a4d-b483-f1ba1f9484b2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/AdjacencyMatrixGraph.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/AdjacencyMatrixGraph.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/AdjacencySetGraph.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/AdjacencySetGraph.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/GraphBreadthFirstTraversal.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/GraphBreadthFirstTraversal.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/linkedlist/LinkedList.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/linkedlist/LinkedList.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/stacks/StackMatchParens.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/stacks/StackMatchParens.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/trees/binarytrees/BreadthFirstTraversal.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/trees/binarytrees/BreadthFirstTraversal.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/Palindrome.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/Palindrome.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/RemoveDuplicatesInUnsortedList.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/RemoveDuplicatesInUnsortedList.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/queue/priorityqueue/SmallestRange.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/queue/priorityqueue/SmallestRange.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/BoldWordsInString.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/BoldWordsInString.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ComplexNumberMultiplication.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ComplexNumberMultiplication.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ConstructStringFromBinaryTree.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ConstructStringFromBinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/CountBinarySubstrings.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/CountBinarySubstrings.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/FindDuplicateFileInSystem.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/FindDuplicateFileInSystem.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/JudgeRouteCircle.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/JudgeRouteCircle.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestPalindromicSubstring.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestPalindromicSubstring.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestSubstringWithOutRepeating.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestSubstringWithOutRepeating.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestSubstringWithoutRepeatingChars.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestSubstringWithoutRepeatingChars.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/MovingAverageFromDataStream.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/MovingAverageFromDataStream.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/NextGreaterElementIII.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/NextGreaterElementIII.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/OutputContentMatches.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/OutputContentMatches.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/RemoveComments.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/RemoveComments.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/RepeatedStringMatch.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/RepeatedStringMatch.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReturnGroupAnagrams.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReturnGroupAnagrams.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReturnGroupAnagramsPerformanceOptimized.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReturnGroupAnagramsPerformanceOptimized.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReverseWordInString.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReverseWordInString.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/SlidingWindowMaximum.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/SlidingWindowMaximum.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/Triangle.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/Triangle.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ValidPalindromeII.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ValidPalindromeII.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ZigZagConversion.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ZigZagConversion.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/tree/BinaryTreeBFS.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/tree/BinaryTreeBFS.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/tree/printer/BTreePrinter.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/tree/printer/BTreePrinter.java" />
     </list>
     <ignored path="DS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,76 +59,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/pom.xml">
+      <file leaf-file-name="ReturnGroupAnagrams.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReturnGroupAnagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="19" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="238">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/trees/Node.java">
+      <file leaf-file-name="ReverseInteger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/linkedlist/LinkedList.java">
+      <file leaf-file-name="ReverseWordInString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReverseWordInString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2873">
-              <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/BubbleSort.java">
+      <file leaf-file-name="SlidingWindowMaximum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/SlidingWindowMaximum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="27" />
+            <state relative-caret-position="0">
+              <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DbNode.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/DbNode.java">
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="0">
+              <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidPalindromeII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ValidPalindromeII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZigZagConversion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ZigZagConversion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearchTreeInsertion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/tree/BinarySearchTreeInsertion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeBFS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/tree/BinaryTreeBFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
               <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <file leaf-file-name="SerializeandDeserializeBinaryTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/tree/SerializeandDeserializeBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1428">
-              <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
-              <folding>
-                <element signature="e#25032#25033#0" expanded="true" />
-                <element signature="e#25078#25079#0" expanded="true" />
-                <element signature="e#121460#121461#0" expanded="true" />
-                <element signature="e#121514#121515#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6256">
-              <caret line="405" column="32" lean-forward="false" selection-start-line="405" selection-start-column="25" selection-end-line="405" selection-end-column="32" />
+            <state relative-caret-position="323">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -121,6 +177,9 @@
       <find>S</find>
       <find>reverse</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/M1</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -138,20 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/deleteLinkedList.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/OutputContentMatches.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/LongestSubstringWithOutRepeating.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/LongestPalindromicSubstring.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/ZigZagConversion.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/recursion/Algorithm.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/recursion/Recursion.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/InOrderIterative.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/BinaryTreeFromPreOrderAndInOrder.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/BinaryTreeFromInOrderAndPostOrder.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/Node.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Tree/SortedListToBinary.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/Triangle.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/CopyListWithRandomPointer.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/ReOrderLinkedList.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/SortLinkedList.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/AddTwoNumbersII.java" />
@@ -186,6 +231,23 @@
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/ConstructStringFromBinaryTree.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/ReverseWordInString.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/NextGreaterElementIII.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/BoldWordsInString.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ComplexNumberMultiplication.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ConstructStringFromBinaryTree.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/CountBinarySubstrings.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/JudgeRouteCircle.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestPalindromicSubstring.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestSubstringWithOutRepeating.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestSubstringWithoutRepeatingChars.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/MovingAverageFromDataStream.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/NextGreaterElementIII.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/OutputContentMatches.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/RepeatedStringMatch.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReverseWordInString.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/SlidingWindowMaximum.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/Triangle.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ValidPalindromeII.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ZigZagConversion.java" />
       </list>
     </option>
   </component>
@@ -213,7 +275,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="52" />
+    <option name="x" value="2787" />
     <option name="y" value="22" />
     <option name="width" value="1129" />
     <option name="height" value="1058" />
@@ -312,6 +374,40 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
+              <item name="stringandarrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -775,11 +871,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="22" width="1129" height="1058" extended-state="0" />
+    <frame x="2787" y="22" width="1129" height="1058" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23874345" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.48530954" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -791,7 +888,8 @@
       <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25712198" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="-1601" y="161" width="917" height="600" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3959256" sideWeight="0.85505617" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24092117" sideWeight="0.85505617" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -802,10 +900,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917964" sideWeight="0.48530954" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -828,68 +924,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/RemoveDuplicatesInUnsortedList.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/CopyListWithRandomPointer.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/deleteLinkedList.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/InsertAtNthNode.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stacks/StackLinkedListImpl.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stacks/Stack.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stacks/Element.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stacks/BasicCalculatorStringExpression.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stacks/BasicCalculatorII.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/searchingsorting/ShellSort.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/searchingsorting/MergeSort.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5134">
-          <caret line="346" column="51" lean-forward="false" selection-start-line="346" selection-start-column="51" selection-end-line="346" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/searchingsorting/InsertionSort.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/RepeatedStringMatch.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/ValidPalindromeII.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/JudgeRouteCircle.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/ConstructStringFromBinaryTree.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/LongestSubstringWithoutRepeatingChars.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/jdk.scripting.nashorn/jdk/nashorn/internal/runtime/linker/JavaAdapterBytecodeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="156" column="0" lean-forward="true" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.management/javax/management/MBeanInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="580" column="43" lean-forward="false" selection-start-line="580" selection-start-column="43" selection-end-line="580" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/SlidingWindowMaximum.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/Tree/MaxDepthOfBinaryTree.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/CheckPowerOfThree.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/CheckPowerOfN.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/ComplexNumberMultiplication.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/CheckPowerOfTwo.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/ZigZagConversion.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/designpattern/Singleton.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/Node.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/OddEvenLinkedListNodes.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/SwapNodesInPairs.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/ReverseLinkedList.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/binaryheap/FindMaxElementInMinHeap.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/binaryheap/FindMinElementInMaxHeap.java" />
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/binaryheap/FindKLargestElements.java" />
-    <entry file="file://$PROJECT_DIR$/M1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="19" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="17" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/linkedlist/AddTwoNumbersLinkedList.java" />
     <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/LongestSubstringWithOutRepeating.java" />
     <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/BoldWordsInString.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
@@ -897,10 +931,10 @@
         <state relative-caret-position="1428">
           <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
           <folding>
-            <element signature="e#25032#25033#0" expanded="true" />
-            <element signature="e#25078#25079#0" expanded="true" />
-            <element signature="e#121460#121461#0" expanded="true" />
-            <element signature="e#121514#121515#0" expanded="true" />
+            <element signature="e#25032#25033#0" expanded="false" />
+            <element signature="e#25078#25079#0" expanded="false" />
+            <element signature="e#121460#121461#0" expanded="false" />
+            <element signature="e#121514#121515#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -947,6 +981,302 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/tree/BinarySearchTreeMinValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-121">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/tree/FindClosestBinaryTreeValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/BoldWordsInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/CheckPowerOfFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/CheckPowerOfN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/CheckPowerOfThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/CheckPowerOfTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ComplexNumberMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ConstructStringFromBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/CountBinarySubstrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/FindAllSubsetOfSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/FindDuplicateFileInSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/IsNumberPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/IsStringPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/JudgeRouteCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestPalindromicSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestSubstringWithOutRepeating.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestSubstringWithoutRepeatingChars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/MovingAverageFromDataStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/NextGreaterElementIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/OutputContentMatches.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/PalindromicSubstrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/PowerFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/RepeatedStringMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReturnAllAnagramsForString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReturnGroupAnagramsPerformanceOptimized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReturnGroupAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReverseWordInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/SlidingWindowMaximum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ValidPalindromeII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ZigZagConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/tree/BinarySearchTreeInsertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/tree/BinaryTreeBFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/tree/SerializeandDeserializeBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding />
         </state>
       </provider>

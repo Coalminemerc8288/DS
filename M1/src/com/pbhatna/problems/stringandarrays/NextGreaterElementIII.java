@@ -1,4 +1,4 @@
-package com.pbhatna.stringandarrays;
+package com.pbhatna.problems.stringandarrays;
 
 /**
  * Given a positive 32-bit integer n, you need to find the smallest 32-bit integer

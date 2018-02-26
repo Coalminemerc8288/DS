@@ -2,8 +2,8 @@ package com.pbhatna.core.Implementations.trees.binarytrees;
 
 import com.pbhatna.core.Implementations.trees.Node;
 
-import java.util.Queue;
 import java.util.ArrayDeque;
+import java.util.Queue;
 
 public class BreadthFirstTraversal {
 

@@ -1,4 +1,4 @@
-package com.pbhatna.stringandarrays;
+package com.pbhatna.problems.stringandarrays;
 
 /**
  * Given a string s, find the longest palindromic substring in s.

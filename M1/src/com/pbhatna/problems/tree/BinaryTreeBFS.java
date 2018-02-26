@@ -1,5 +1,4 @@
 package com.pbhatna.problems.tree;
-import com.pbhatna.problems.linkedlist.LinkedList;
 
 /**
  * Breadth First Search for the binary tree

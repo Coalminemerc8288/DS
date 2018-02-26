@@ -1,7 +1,8 @@
 package com.pbhatna.problems.queue.priorityqueue;
+
+import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.Queue;
-import java.util.Comparator;
 
 /**
  * You have k lists of sorted integers in ascending order. Find the smallest range that includes at least one number from each of the k lists.

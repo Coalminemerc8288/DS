@@ -1,4 +1,4 @@
-package com.pbhatna.stringandarrays;
+package com.pbhatna.problems.stringandarrays;
 
 /**
  * 686. Repeated String Match

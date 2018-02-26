@@ -1,5 +1,4 @@
 package com.pbhatna.problems.linkedlist;
-import java.lang.*;
 
 /**
  * Check if a linked list of strings forms a palindrome

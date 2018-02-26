@@ -1,9 +1,6 @@
 package com.pbhatna.problems.stringandarrays;
-import java.util.Arrays;
-import java.util.List;
-import java.util.ArrayList;
-import java.util.Map;
-import java.util.HashMap;
+
+import java.util.*;
 
 /**
  * Given an array of strings, group anagrams together.
