@@ -50,9 +50,9 @@ public class FindKthSmallestPair {
         for (int i = 0; i < a.length; i ++) {
             int j = i;          // increment inner pointer and compare a[i] and a[j]
             while (j < a.length && a[j] - a[i] <= mid) {
-                result = result +  j - i - 1;
                 j++;
             }
+            result = result +  j - i - 1;
         }
         return result;
     }
