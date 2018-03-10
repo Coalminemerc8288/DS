@@ -1,4 +1,4 @@
-package com.pbhatna.core.recursion;
+package com.pbhatna.problems.advanced.recursion;
 
 public class Recursion {
     /**

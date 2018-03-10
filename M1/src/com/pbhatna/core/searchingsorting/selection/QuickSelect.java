@@ -1,4 +1,4 @@
-package com.pbhatna.core.selection;
+package com.pbhatna.core.searchingsorting.selection;
 
 import java.util.Random;
 

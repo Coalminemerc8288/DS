@@ -1,4 +1,4 @@
-package com.pbhatna.core.bitwise;
+package com.pbhatna.core.Implementations.bitwise;
 
 /**
  * There are three bit shift operators

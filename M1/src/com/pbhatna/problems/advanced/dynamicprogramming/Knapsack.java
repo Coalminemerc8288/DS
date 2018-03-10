@@ -1,4 +1,4 @@
-package com.pbhatna.problems.dynamicprogramming;
+package com.pbhatna.problems.advanced.dynamicprogramming;
 
 /**
  * Its is a combinatorial optimization

@@ -1,4 +1,4 @@
-package com.pbhatna.problems.dynamicprogramming;
+package com.pbhatna.problems.advanced.dynamicprogramming;
 import java.util.Map;
 import java.util.HashMap;
 
