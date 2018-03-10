@@ -1,4 +1,4 @@
-package com.pbhatna.problems.javacore;
+package com.pbhatna.core.bitwise;
 
 public class Datatypes {
 

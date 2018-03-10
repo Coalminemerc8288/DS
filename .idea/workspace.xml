@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd48d00b-f802-4a4d-b483-f1ba1f9484b2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/dynamicprogramming/CoinChange.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/dynamicprogramming/CoinChange.java" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/javacore/Datatypes.java" afterPath="" />
     </list>
     <ignored path="DS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,26 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StackMinConstantTime.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/stacks/StackMinConstantTime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StackMatchParens.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/stacks/StackMatchParens.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BinaryTreeInOrder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/trees/binarytrees/BinaryTreeInOrder.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,16 +43,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryTreePostOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/trees/binarytrees/BinaryTreePostOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -99,11 +68,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdjacencyMatrixGraph.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AdjacencyMatrixGraph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/AdjacencyMatrixGraph.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BitShiftOperators.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/bitwise/BitShiftOperators.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bitwise.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/bitwise/Bitwise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Datatypes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/bitwise/Datatypes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -173,7 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/Impl/linkedlist/Node.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Impl/linkedlist/Node.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Impl/linkedlist/LinkedList.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stacks/Stack.java" />
@@ -224,6 +222,7 @@
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/dynamicprogramming/Fibonacci.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/dynamicprogramming/Knapsack.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/dynamicprogramming/CoinChange.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/bitwise/Datatypes.java" />
       </list>
     </option>
   </component>
@@ -251,7 +250,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1926" />
+    <option name="x" value="-1914" />
     <option name="y" value="22" />
     <option name="width" value="1034" />
     <option name="height" value="1058" />
@@ -365,6 +364,15 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="bitwise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="Implementations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -376,6 +384,14 @@
               <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="Implementations" type="462c0819:PsiDirectoryNode" />
               <item name="graphs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -885,7 +901,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1926" y="22" width="1034" height="1058" extended-state="0" />
+    <frame x="-1914" y="22" width="1034" height="1058" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -972,20 +988,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/FirstUniqueCharacterInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/MiniParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="52" column="17" lean-forward="true" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/io/InputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1224,8 +1226,8 @@
         <state relative-caret-position="482">
           <caret line="622" column="31" lean-forward="false" selection-start-line="622" selection-start-column="31" selection-end-line="622" selection-end-column="31" />
           <folding>
-            <element signature="e#24280#24281#0" expanded="true" />
-            <element signature="e#24345#24346#0" expanded="true" />
+            <element signature="e#24280#24281#0" expanded="false" />
+            <element signature="e#24345#24346#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1234,14 +1236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="737">
           <caret line="55" column="9" lean-forward="false" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/javacore/Datatypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1354,6 +1348,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/bitwise/BitShiftOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/bitwise/Bitwise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/bitwise/Datatypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding />
         </state>
       </provider>
