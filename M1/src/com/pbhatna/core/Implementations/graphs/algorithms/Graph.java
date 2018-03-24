@@ -8,7 +8,7 @@ public interface Graph {
         DIRECTED,
         UNDIRECTED
     }
-    
+
     GraphType TypeofGraph();
 
     int getWeightedEdge(int v1, int v2);

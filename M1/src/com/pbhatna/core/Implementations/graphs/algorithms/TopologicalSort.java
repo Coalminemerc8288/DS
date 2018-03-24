@@ -1,5 +1,4 @@
 package com.pbhatna.core.Implementations.graphs.algorithms;
-import com.pbhatna.core.Implementations.graphs.algorithms.Graph;
 
 import java.util.*;
 
@@ -14,7 +13,7 @@ public class TopologicalSort {
         LinkedList<Integer> queue = new LinkedList<>();
         Map<Integer, Integer> indegreeMap = new HashMap<>();
 
-        //
+        // Build Indegree Map
         for (int vertex =0; vertex < graph.getNumVertices(); vertex ++) {
             int indegree = graph.getIndegree(vertex);
             indegreeMap.put(vertex, indegree);
@@ -44,7 +43,6 @@ public class TopologicalSort {
                 throw new RuntimeException("Graph had a cycle:");
             }
         }
-
         return sortedList;
     }
 
