@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd48d00b-f802-4a4d-b483-f1ba1f9484b2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyListGraph.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyMatrixGraph.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyMatrixGraph.java" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencySetGraph.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencySetGraph.java" />
       <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphDepthFirstTraversal.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphDepthFirstTraversal.java" />
     </list>
     <ignored path="DS.iws" />
@@ -129,8 +125,8 @@
       <file leaf-file-name="GraphDepthFirstTraversal.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphDepthFirstTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="42" column="4" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+            <state relative-caret-position="697">
+              <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -1479,8 +1475,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphDepthFirstTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="42" column="4" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+        <state relative-caret-position="697">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
           <folding />
         </state>
       </provider>
