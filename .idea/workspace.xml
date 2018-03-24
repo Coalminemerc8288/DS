@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bd48d00b-f802-4a4d-b483-f1ba1f9484b2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/AdjacencyMatrixGraph.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyMatrixGraph.java" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/AdjacencySetGraph.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencySetGraph.java" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/Graph.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/interfaces/Graph.java" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/GraphBreadthFirstTraversal.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphBreadthFirstTraversal.java" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/GraphDepthFirstTraversal.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphDepthFirstTraversal.java" />
     </list>
     <ignored path="DS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,36 +48,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdjacencySetGraph.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AdjacencySetGraph.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencySetGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="663">
+              <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1560#1561#0" expanded="true" />
+                <element signature="e#1614#1615#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdjacencyMatrixGraph.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AdjacencyMatrixGraph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyMatrixGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="431">
+              <caret line="36" column="5" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="36" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Graph.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/interfaces/Graph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -181,7 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stacks/BasicCalculatorStringExpression.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stacks/BasicCalculatorII.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/Todo.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/ReOrganizeString.java" />
@@ -232,6 +218,7 @@
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/interfaces/Graph.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencySetGraph.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphDepthFirstTraversal.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyMatrixGraph.java" />
       </list>
     </option>
   </component>
@@ -259,9 +246,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2791" />
+    <option name="x" value="1913" />
     <option name="y" value="22" />
-    <option name="width" value="1049" />
+    <option name="width" value="1072" />
     <option name="height" value="1058" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -965,7 +952,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2791" y="22" width="1049" height="1058" extended-state="0" />
+    <frame x="1913" y="22" width="1072" height="1058" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -982,7 +969,7 @@
       <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25712198" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="-1601" y="161" width="917" height="600" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26215443" sideWeight="0.85505617" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25652984" sideWeight="0.85505617" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1043,7 +1030,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1421,24 +1408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/interfaces/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencySetGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphBreadthFirstTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1455,12 +1424,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/interfaces/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyMatrixGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="431">
+          <caret line="36" column="5" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="36" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencySetGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1560#1561#0" expanded="true" />
+            <element signature="e#1614#1615#0" expanded="true" />
           </folding>
         </state>
       </provider>
