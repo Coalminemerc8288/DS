@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd48d00b-f802-4a4d-b483-f1ba1f9484b2" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/Scratch.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphBreadthFirstTraversal.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphBreadthFirstTraversal.java" />
     </list>
@@ -24,21 +25,31 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="Scratch.java" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/Scratch.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="0">
+                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="DS" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Hashing.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/hashing/Hashing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SwapNodesInPairs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/SwapNodesInPairs.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,8 +77,8 @@
       <file leaf-file-name="AdjacencyListGraph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyListGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1033">
-              <caret line="67" column="5" lean-forward="false" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+            <state relative-caret-position="393">
+              <caret line="36" column="37" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1450#1451#0" expanded="true" />
@@ -84,8 +95,8 @@
       <file leaf-file-name="Graph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/interfaces/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="0">
+              <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -94,8 +105,8 @@
       <file leaf-file-name="AdjacencyMatrixGraph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyMatrixGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="32">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,31 +124,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GraphBreadthFirstTraversal.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GraphBreadthFirstTraversal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphBreadthFirstTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="136">
+              <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GraphDepthFirstTraversal.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GraphDepthFirstTraversal.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphDepthFirstTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReOrderLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/ReOrderLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="646">
+              <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -187,7 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/ReOrganizeString.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/BoldWordsInString.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/RemoveComments.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/queue/Node.java" />
@@ -238,6 +238,7 @@
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencySetGraph.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphDepthFirstTraversal.java" />
         <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphBreadthFirstTraversal.java" />
+        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/Scratch.java" />
       </list>
     </option>
   </component>
@@ -265,9 +266,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1910" />
+    <option name="x" value="850" />
     <option name="y" value="22" />
-    <option name="width" value="1208" />
+    <option name="width" value="1099" />
     <option name="height" value="1058" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -971,7 +972,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1910" y="22" width="1208" height="1058" extended-state="0" />
+    <frame x="850" y="22" width="1099" height="1058" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -988,7 +989,7 @@
       <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25712198" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="-1601" y="161" width="917" height="600" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25993377" sideWeight="0.85505617" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1410373" sideWeight="0.85505617" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1058,14 +1059,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/trees/binarytrees/BreadthFirstTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/trees/binarytrees/BinaryTreePreOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1423,16 +1416,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/interfaces/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="59" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyMatrixGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyListGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1033">
-          <caret line="67" column="5" lean-forward="false" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+        <state relative-caret-position="393">
+          <caret line="36" column="37" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1450#1451#0" expanded="true" />
@@ -1441,16 +1444,6 @@
             <element signature="e#1589#1590#0" expanded="true" />
             <element signature="e#1638#1639#0" expanded="true" />
             <element signature="e#1693#1694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyMatrixGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1467,18 +1460,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphDepthFirstTraversal.java">
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphBreadthFirstTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        <state relative-caret-position="136">
+          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphBreadthFirstTraversal.java">
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphDepthFirstTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="646">
+          <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/Scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

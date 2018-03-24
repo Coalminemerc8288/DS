@@ -8,10 +8,10 @@ import java.util.List;
 import java.util.Queue;
 
 public class GraphBreadthFirstTraversal {
+    
     private static int N = 8;
 
     public static void breadthFirstTraversal(Graph graph, int[] visited, int currentVertex) {
-
         Queue<Integer> queue = new ArrayDeque<>();
         queue.add(currentVertex);
 
