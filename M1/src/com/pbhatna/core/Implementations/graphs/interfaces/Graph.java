@@ -1,4 +1,4 @@
-package com.pbhatna.core.Implementations.graphs;
+package com.pbhatna.core.Implementations.graphs.interfaces;
 import java.util.List;
 
 public interface Graph{

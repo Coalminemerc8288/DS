@@ -1,4 +1,6 @@
-package com.pbhatna.core.Implementations.graphs;
+package com.pbhatna.core.Implementations.graphs.traversal;
+
+import com.pbhatna.core.Implementations.graphs.interfaces.Graph;
 
 import java.util.ArrayDeque;
 import java.util.List;

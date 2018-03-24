@@ -1,4 +1,6 @@
-package com.pbhatna.core.Implementations.graphs;
+package com.pbhatna.core.Implementations.graphs.impl;
+
+import com.pbhatna.core.Implementations.graphs.interfaces.Graph;
 
 import java.util.ArrayList;
 import java.util.Collections;
