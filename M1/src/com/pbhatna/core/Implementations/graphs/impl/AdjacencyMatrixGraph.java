@@ -9,8 +9,8 @@ import java.util.List;
 public class AdjacencyMatrixGraph implements Graph {
 
     private int[][] adjacencyMatrix;
-    private GraphType graphType = GraphType.DIRECTED;
-    private int numVertices = 0;
+    private GraphType graphType;
+    private int numVertices;
 
     public AdjacencyMatrixGraph(int numVertices, GraphType graphType) {
         this.numVertices = numVertices;
