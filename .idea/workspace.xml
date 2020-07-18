@@ -1,468 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd48d00b-f802-4a4d-b483-f1ba1f9484b2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/algorithms/Graph.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/algorithms/Graph.java" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/algorithms/TopologicalSort.java" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/algorithms/TopologicalSort.java" />
+    <list default="true" id="78350754-f7ac-41d9-bdf4-7e94f8611993" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_beta0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_8_0_beta0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1/M1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/M1/M1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/BBubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/CInsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/EMergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/FQuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/ASelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/DShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BinarySearchTreeInsertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BinarySearchTreeLookup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BinarySearchTreeMinValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BinaryTreeFromInOrderAndPostOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BinaryTreeFromPreOrderAndInOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BinaryTreeIsBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BreadthFirstTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/InOrderIterative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/Inorder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/MaxDepthOfBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/MirrorBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/PostOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/PreOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/Queue$QueueOverflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/Queue$QueueUnderflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/SortedListToBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/printer/BTreePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/FindKLargestElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/FindKSmallestElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/FindMaxElementInMinHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/FindMinElementInMaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/Heap$HeapOverflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/Heap$HeapUnderflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/Heap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/MinHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/designpattern/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/designpattern/SingletonDoubleCheckingLocking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/designpattern/SingletonEagerlyInstantiate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/AddNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/AddTwoNumbersII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/AddTwoNumbersLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/AppendListToCurrList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/ChangeHead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/CopyListWithRandomPointer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/DbNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/DetectCycleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/DoublyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/InsertAtNthNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/InsertIntoSortedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/MergeTwoSortedLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/OddEvenLinkedListNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/PartitionLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/RandomPointerDeleteNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/ReOrderLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/RemoveDuplicatesInUnsortedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/RemoveElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/ReverseLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/ReverseLinkedListIterative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/ReverseLinkedListRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/SortLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/SortedMergedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/SplitLinkedListIntoEqualParts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/SwapNodesInPairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/Queue$QueueOverflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/Queue$QueueUnderflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/QueueLinkedList$QueueOverflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/QueueLinkedList$QueueUnderflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/QueueLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/recursion/Algorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/recursion/Recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/Stack$StackOverflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/Stack$StackUnderflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/StackLinkedListImpl$StackOverflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/StackLinkedListImpl$StackUnderflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/StackLinkedListImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/CheckPowerOfFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/CheckPowerOfN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/CheckPowerOfThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/CheckPowerOfTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/ComplexNumberMultiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/IsNumberPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/IsStringPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/LongestPalindromicSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/LongestSubstringWithOutRepeating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/LongestSubstringWithoutRepeatingChars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/OutputContentMatches.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/PowerFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/ReverseInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/SlidingWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/ZigZagConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/systemdesign/Codec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/systemdesign/CodecUsingRandomFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/tree/MaximumBinaryTree.class" beforeDir="false" />
     </list>
-    <ignored path="DS.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/M1/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/DS$LongestPalindromicSubstring.coverage" NAME="LongestPalindromicSubstring Coverage Results" MODIFIED="1512491107851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.pbhatna.stringandarrays.*</FILTER>
-    </SUITE>
-  </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="DS" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AdjacencySetGraph.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencySetGraph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1536#1537#0" expanded="true" />
-                <element signature="e#1590#1591#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdjacencyListGraph.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyListGraph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="37" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1450#1451#0" expanded="true" />
-                <element signature="e#1506#1507#0" expanded="true" />
-                <element signature="e#1546#1547#0" expanded="true" />
-                <element signature="e#1589#1590#0" expanded="true" />
-                <element signature="e#1638#1639#0" expanded="true" />
-                <element signature="e#1693#1694#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Graph.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/interfaces/Graph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdjacencyMatrixGraph.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyMatrixGraph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/SortLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GraphBreadthFirstTraversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphBreadthFirstTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GraphDepthFirstTraversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphDepthFirstTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/stacks/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TopologicalSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/algorithms/TopologicalSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Graph.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/algorithms/Graph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="AnnotationType" />
-        <option value="Class" />
-        <option value="Interface" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>iterat</find>
-      <find>iter</find>
-      <find>length</find>
-      <find>S</find>
-      <find>reverse</find>
-      <find>Math</find>
-      <find>abs</find>
-      <find>floorKey</find>
-      <find>ceili</find>
-      <find>get</find>
-      <find>put</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/M1</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$USER_HOME$/sparkTutorial" value="1506814605459" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/queue/Node.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/CountBinarySubstrings.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/RepeatedStringMatch.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/searchingsorting/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/ValidPalindromeII.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/JudgeRouteCircle.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/ConstructStringFromBinaryTree.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/ReverseWordInString.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/stringandarrays/NextGreaterElementIII.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/BoldWordsInString.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ComplexNumberMultiplication.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ConstructStringFromBinaryTree.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/CountBinarySubstrings.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/JudgeRouteCircle.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestPalindromicSubstring.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestSubstringWithOutRepeating.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestSubstringWithoutRepeatingChars.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/MovingAverageFromDataStream.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/NextGreaterElementIII.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/OutputContentMatches.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/RepeatedStringMatch.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ReverseWordInString.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/SlidingWindowMaximum.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/Triangle.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ValidPalindromeII.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ZigZagConversion.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/LongestUncommonSubsequenceII.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/MinimumTimeDifference.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/DetectCapital.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/ValidIPAddress.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/RepeatedSubstring.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/StringCompression.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/FirstUniqueCharacterInString.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/MiniParser.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/MyCalendarI.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/FindKthSmallestPair.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/dynamicprogramming/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/dynamicprogramming/Knapsack.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/dynamicprogramming/CoinChange.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/bitwise/Datatypes.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/bitwise/Bitwise.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/SortLinkedList.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyListGraph.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyMatrixGraph.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencySetGraph.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphDepthFirstTraversal.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphBreadthFirstTraversal.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/Scratch.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/interfaces/Graph.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/algorithms/Graph.java" />
-        <option value="$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/algorithms/TopologicalSort.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="M1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="M1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1945" />
-    <option name="y" value="22" />
-    <option name="width" value="1099" />
-    <option name="height" value="1058" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Class structureJava</id>
-          </State>
-          <State>
-            <id>Code maturity issuesJava</id>
-          </State>
-          <State>
-            <id>JUnit issuesJava</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>Java 5Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java 7Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java 8Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Javadoc issuesJava</id>
-          </State>
-          <State>
-            <id>Numeric issuesJava</id>
-          </State>
-          <State>
-            <id>TestNGJava</id>
-          </State>
-          <State>
-            <id>Threading issuesJava</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Code maturity issuesJava</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="Implementations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="Implementations" type="462c0819:PsiDirectoryNode" />
-              <item name="graphs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="Implementations" type="462c0819:PsiDirectoryNode" />
-              <item name="graphs" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="Implementations" type="462c0819:PsiDirectoryNode" />
-              <item name="stacks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="Implementations" type="462c0819:PsiDirectoryNode" />
-              <item name="trees" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="Implementations" type="462c0819:PsiDirectoryNode" />
-              <item name="trees" type="462c0819:PsiDirectoryNode" />
-              <item name="binarysearchtrees" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pbhatna" type="462c0819:PsiDirectoryNode" />
-              <item name="problems" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1eqM9RXxnsUJiybi16xoj99vypa" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="HashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;Hash&#9;PSI&#9;JAVA://com.pbhatna.problems.hashing.Hashing&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;TreeSet&#9;PSI&#9;JAVA://java.util.TreeSet&#10;HashCode&#9;PSI&#9;JAVA://com.pbhatna.problems.hashing.GenerateHashCode&#10;Comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;Nav&#9;PSI&#9;JAVA://java.util.NavigableSet&#10;SortedSe&#9;PSI&#9;JAVA://java.util.SortedSet&#10;Collec&#9;PSI&#9;JAVA://java.util.Collection&#10;Iterable&#9;PSI&#9;JAVA://java.lang.Iterable&#10;Arrays&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java&#10;object&#9;PSI&#9;JAVA://java.lang.Object&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;AbstractDatabaseFactory&#9;null&#9;null&#10;Circle&#9;FILE&#9;jrt:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home!/javafx.graphics/javafx/scene/shape/Circle.class&#10;shape&#9;PSI&#9;JAVA://java.awt.Shape&#10;FILEINPUT STREAM&#9;PSI&#9;JAVA://java.io.FileInputStream&#10;InputStrea&#9;PSI&#9;JAVA://java.io.InputStream&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;string buil&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java&#10;Str&#9;FILE&#9;file:///Users/priyankbhatnagar/Desktop/Java/DS/M1/src/com/pbhatna/stringandarrays/LongestSubstringWithOutRepeating.java&#10;String ja&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java&#10;String&#9;FILE&#9;file:///Users/priyankbhatnagar/Desktop/Java/DS/M1/src/com/pbhatna/stringandarrays/LongestSubstringWithOutRepeating.java&#10;immutable cla&#9;PSI&#9;JAVA://javax.management.MBeanInfo.ArrayGettersSafeAction#immutableClass&#10;final meth&#9;PSI&#9;JAVA://jdk.nashorn.internal.runtime.linker.JavaAdapterBytecodeGenerator#finalMethods&#10;HasSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;deque&#9;PSI&#9;JAVA://java.util.Deque" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.pbhatna.stringandarrays" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -476,1080 +152,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Knapsack">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-    </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+  <component name="RunManager">
+    <configuration name="BoldWordsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pbhatna.problems.stringandarrays.BoldWordsInString" />
+      <module name="M1" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pbhatna.core.searchingsorting.*" />
+          <option name="PATTERN" value="com.pbhatna.problems.stringandarrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.pbhatna.core.searchingsorting.BubbleSort" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="M1" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.pbhatna.problems.advanced.dynamicprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.pbhatna.problems.advanced.dynamicprogramming.Fibonacci" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="M1" />
-      <envs />
-    </configuration>
-    <configuration name="Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.pbhatna.problems.advanced.dynamicprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.pbhatna.problems.advanced.dynamicprogramming.Knapsack" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="M1" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
-      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
-      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
-      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
-      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
-      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
-      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="M1" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="M1" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="M1" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="M1" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="M1" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="M1" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="M1" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Application.BubbleSort" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Fibonacci" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Knapsack" />
-    </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.Knapsack" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Fibonacci" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BubbleSort" />
+      <list>
+        <item itemvalue="Application.BoldWordsInString" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bd48d00b-f802-4a4d-b483-f1ba1f9484b2" name="Default" comment="" />
-      <created>1508862557088</created>
+      <changelist id="78350754-f7ac-41d9-bdf4-7e94f8611993" name="Default Changelist" comment="" />
+      <created>1595044517651</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1508862557088</updated>
+      <updated>1595044517651</updated>
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="1945" y="22" width="1099" height="1058" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23874345" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.009345794" sideWeight="0.50318474" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.24554974" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.49791792" order="10" side_tool="false" content_ui="tabs" x="-3676" y="80" width="1383" height="1036" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25712198" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="-1601" y="161" width="917" height="600" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21292084" sideWeight="0.85505617" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.4968153" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39975247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19727346" sideWeight="0.14494382" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.48530954" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.51469046" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.24554974" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39975247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23874345" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.48530954" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32860938" sideWeight="0.49791792" order="10" side_tool="false" content_ui="tabs" x="-3676" y="80" width="1383" height="1036" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25712198" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="-1601" y="161" width="917" height="600" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27118644" sideWeight="0.85505617" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19727346" sideWeight="0.14494382" order="6" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
     </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="2" />
-    </breakpoint-manager>
-    <watches-manager />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29778">
-          <caret line="665" column="25" lean-forward="false" selection-start-line="665" selection-start-column="25" selection-end-line="665" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1052">
-          <caret line="79" column="22" lean-forward="false" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/bitwise/Datatypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="52" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/bitwise/Bitwise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/bitwise/BitShiftOperators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/linkedlist/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/linkedlist/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="251" column="20" lean-forward="false" selection-start-line="251" selection-start-column="16" selection-end-line="251" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/stacks/Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/stacks/StackMatchParens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/stacks/StackMinConstantTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/trees/binarysearchtrees/BinarySearchTreePrintRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/trees/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/queue/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="51" column="25" lean-forward="false" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/queue/QueueWIthTwoStacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/hashing/GenerateHashCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="44" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/queue/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/queue/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-963">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/queue/QueueLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1014">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/queue/priorityqueue/SmallestRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/binaryheap/Heap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1543">
-          <caret line="111" column="36" lean-forward="false" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="36" />
-          <folding>
-            <element signature="e#476#477#0" expanded="false" />
-            <element signature="e#514#515#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#619#620#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/binaryheap/FindMinElementInMaxHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/binaryheap/FindMaxElementInMinHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/binaryheap/FindKSmallestElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/binaryheap/FindKLargestElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/binaryheap/MinHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-351">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/binaryheap/MaxHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="36" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/AddTwoNumbersLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-215">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/DbNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/ReverseLinkedListRecursive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/ReverseKNodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-385">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/RemoveNthNodeFromTheEnd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/ReOrderLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/SwapNodesInPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/hashing/Hashing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/problems/linkedlist/SortLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyMatrixGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencySetGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1536#1537#0" expanded="true" />
-            <element signature="e#1590#1591#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphBreadthFirstTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/Scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/traversal/GraphDepthFirstTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/stacks/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/impl/AdjacencyListGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="37" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1450#1451#0" expanded="true" />
-            <element signature="e#1506#1507#0" expanded="true" />
-            <element signature="e#1546#1547#0" expanded="true" />
-            <element signature="e#1589#1590#0" expanded="true" />
-            <element signature="e#1638#1639#0" expanded="true" />
-            <element signature="e#1693#1694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/interfaces/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/algorithms/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M1/src/com/pbhatna/core/Implementations/graphs/algorithms/TopologicalSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Python 2.7.10 virtualenv at ~/untitled interpreter library</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>9.0</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>M1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>9.0</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: log4j:log4j:1.2.17</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
