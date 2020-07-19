@@ -2,136 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78350754-f7ac-41d9-bdf4-7e94f8611993" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_beta0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_8_0_beta0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/problems/stringandarrays/RemoveVowels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/M1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/M1/M1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/BBubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/CInsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/EMergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/FQuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/ASelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/M1/src/com/pbhatna/core/searchingsorting/DShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BinarySearchTreeInsertion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BinarySearchTreeLookup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BinarySearchTreeMinValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BinaryTreeFromInOrderAndPostOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BinaryTreeFromPreOrderAndInOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BinaryTreeIsBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/BreadthFirstTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/InOrderIterative.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/Inorder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/MaxDepthOfBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/MirrorBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/PostOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/PreOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/Queue$QueueOverflowException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/Queue$QueueUnderflowException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/SortedListToBinary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/Tree/printer/BTreePrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/FindKLargestElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/FindKSmallestElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/FindMaxElementInMinHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/FindMinElementInMaxHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/Heap$HeapOverflowException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/Heap$HeapUnderflowException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/Heap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/MaxHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/binaryheap/MinHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/designpattern/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/designpattern/SingletonDoubleCheckingLocking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/designpattern/SingletonEagerlyInstantiate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/AddNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/AddTwoNumbersII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/AddTwoNumbersLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/AppendListToCurrList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/ChangeHead.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/CopyListWithRandomPointer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/DbNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/DetectCycleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/DoublyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/InsertAtNthNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/InsertIntoSortedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/MergeTwoSortedLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/OddEvenLinkedListNodes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/PartitionLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/RandomPointerDeleteNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/ReOrderLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/RemoveDuplicatesInUnsortedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/RemoveElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/ReverseLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/ReverseLinkedListIterative.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/ReverseLinkedListRecursive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/SortLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/SortedMergedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/SplitLinkedListIntoEqualParts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/linkedlist/SwapNodesInPairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/Queue$QueueOverflowException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/Queue$QueueUnderflowException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/QueueLinkedList$QueueOverflowException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/QueueLinkedList$QueueUnderflowException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/queue/QueueLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/recursion/Algorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/recursion/Recursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/searchingsorting/ShellSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/Element.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/Stack$StackOverflowException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/Stack$StackUnderflowException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/StackLinkedListImpl$StackOverflowException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/StackLinkedListImpl$StackUnderflowException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stacks/StackLinkedListImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/CheckPowerOfFour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/CheckPowerOfN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/CheckPowerOfThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/CheckPowerOfTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/ComplexNumberMultiplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/IsNumberPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/IsStringPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/LongestPalindromicSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/LongestSubstringWithOutRepeating.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/LongestSubstringWithoutRepeatingChars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/OutputContentMatches.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/PowerFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/SlidingWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/stringandarrays/ZigZagConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/systemdesign/Codec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/systemdesign/CodecUsingRandomFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/tree/MaximumBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/core/searchingsorting/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/core/searchingsorting/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/core/searchingsorting/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/core/searchingsorting/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/core/searchingsorting/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/core/searchingsorting/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/M1/com/pbhatna/problems/stringandarrays/BoldWordsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/M1/com/pbhatna/problems/stringandarrays/BoldWordsInString.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -152,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.RemoveVowels">
     <configuration name="BoldWordsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pbhatna.problems.stringandarrays.BoldWordsInString" />
       <module name="M1" />
@@ -166,8 +58,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoveVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pbhatna.problems.stringandarrays.RemoveVowels" />
+      <module name="M1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pbhatna.problems.stringandarrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveVowels" />
         <item itemvalue="Application.BoldWordsInString" />
       </list>
     </recent_temporary>
